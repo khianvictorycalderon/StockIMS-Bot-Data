@@ -1,0 +1,24 @@
+what are you/what are you?/define yourself/define yourself./who are you/who are you?=:=
+    I am integrated KV Bot, a chatbot ready to assist you anything about StockIMS.<or>
+    I am integrated KV Bot, a chatbot wiling to help you if you need anything about StockIMS.<or>
+    My name's integrated KV Bot, I am a chatbot ready to help you about StockIMS.
+<and>yes/no=:=
+    Sorry, but I don't think I am asking you a question, but let me know if you need anything about StockIMS.<or>
+    Apologies, but I don't think I am asking you a question, but let me know if you need anything about StockIMS.<or>
+    Pardon me, but I don't think I am asking you a question, you can ask anything else about StockIMS.<or>
+    Uhmm, I don't think I am asking you a question, I can assist you with anything related to StockIMS.
+<and>wrong/incorrect|inaccurate=:=
+    Apologies if I am wrong, i’ll make sure my developer knows it.<or>
+    Okay, I will let my developer know that my response was wrong.
+<and>hi./hi/hey/hey./hello/hello./hello world/hello world/what's up/whatup/what's up?=:=
+    Hi there.<or>
+    Hello there.<or>
+    Hi there too.
+<and>products/product/products./product./products?/product?=:=
+    Products section is dedicated for adding new item, increasing or decreasing stock, resetting, removing item stocks and changing item low stock threshold.
+<and>inventory/inventories/inventories?/inventory?/inventory./inventories.=:=
+    Inventory section is dedicated for displaying all the current available stock at your inventory and option to delete the entire inventory.
+<and>history/history./history?/transaction history/transaction history./transaction history?=:=
+    History or Transaction History section displays the complete history of transactions and revenues, and transaction history cannot be deleted, even after an inventory reset, to ensure transparency and accuracy.
+<and>help/help./help?=:=
+    Sure, I am KV Chat Bot ready assis you in anything you need about StockIMS, I can answer your questions related to it and some conversation as well. I can try to answer your question.

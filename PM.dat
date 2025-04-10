@@ -1,0 +1,133 @@
+PRIORITY_MATCH_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>bobo |pogi |sino ang|ano ang|kamusta |kumusta|bakit |saan ang|saan makikita|ikaw ba=:=Sorry but I don't respond in Tagalog, try again in English.<or>Apologies but no Tagalog, try again in English.<or>I am unable to respond in Tagalog, try again in English.<or>Sorry, English only.<or>English only please.
+<and>bitch | fuck| damn|bastard=:=Please be respectful about your language.<or>Be more polite next time, thank you.<or>It would be great if you could be more respectful.<or>Please be more respectful about what you are saying.
+<and>where,your,data|dictionary/show,me,your,code/does,khian,have,gf/where,khian,live|right now=:=That's confidential, I cannot answer that.<or>That's classified.<or>That is a confidential information, I won't answer that.<or>I can't answer that confidential information.<or>I don't answer that kind of question, that is confidential.
+
+
+<and>
+THREE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+TWO_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>cannot|unable|cant|dont,understand|say|said^why=:=
+    I just can't understand, that's all.<or>
+    I really don't understand, I'm not built to understand that.<or>
+    Sorry really can't understand that.
+<and>really|just,cant,understand^why|really=:=
+    Sorry I don't respond to that.
+
+
+<and>
+FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+FOUR_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>is,our,conversation|convo,record/you,record,my|our,chat|convo|conversation=:=
+    Yes, our conversation is being recorded in the database to improve my response over time.<or>
+    Yes, it is stated in our privacy policy, this is done to improve my response to you.<or>
+    Yes, as stated in our sites's privacy policy, this is for me to respond better the next time you ask me something.
+
+<and>
+THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>how,old,you/what,your,age=:=
+    Me as integrated KV Bot was born the same date as StockIMS was published, April 10, 2025.<or>
+    As integrated KV Bot, I was born as the same date when StockIMS was published, April 10, 2025.<or>
+    I was born on April 10, 2025, as integrated KV Bot, the same date when StockIMS was published.
+<and>what,s|are,product=:=
+    Products section is dedicated for adding new item, increasing or decreasing stock, resetting, removing item stocks and changing item low stock threshold.
+<and>what,s|are,inventory|inventories=:=
+    Inventory section is dedicated for displaying all the current available stock at your inventory and option to delete the entire inventory.
+<and>what,s|are,history|histories|transaction=:=
+    History or Transaction History section displays the complete history of transactions and revenues, and transaction history cannot be deleted, even after an inventory reset, to ensure transparency and accuracy.
+<and>how,generate|respond,fast|quick|instant=:=
+    Because my data is already preloaded in this browser, and when you ask me something, I just locate answers in that dictionary instead of other AI that requires fetching response from the server, I only fetch data then I make request to myself.
+<and>what|where,privacy,policy=:=
+    StockIMS's prviacy policy can be visited by logging out and clicking on the menu, then privacy policy.
+<and>what|where,term,condition=:=
+    StockIMS's terms and conditions can be visited by loggint out and clicking on the menu, then terms and conditions.
+<and>just,tell,me/why,not,tell|say=:=
+    Because my data is indepent from StockIMS Privacy Policy, Terms and Conditions, About, and Changelogs pages. If it changed, it won't affect my data, so it is better to check it yourself to be updated as soon as possible.
+<and>who,made|developed|created|published=:=
+    StockIMS was created and published by <a href=https://khian.netlify.app/ target=_blank>Khian Victory D. Calderon</a>.
+<and>what,is,stockims/define,stockims/explain,stockims/what,is,this,platform=:= 
+    <b>StockIMS</b> is StockIMS (pronounced as stak-emes or stack-ay-em-es) is a user-friendly website designed to help you manage inventory efficiently, whether you run a small, medium, or large-scale business. While it is specifically tailored for cooperatives and small sari-sari stores, it is also flexible enough to be used by larger corporations.<or>
+    StockIMS is basically a tool that let's you manage your inventory for business purpose.
+<and>why,created/stockims,created/purpose,of,stockims/goal,of,stockims=:= 
+    StockIMS was made to give small business owners an easy, affordable, and mobile solution for their inventory management. Most small businesses have difficulty keeping up with inventory levels, particularly when using outdated methods such as spreadsheets or pen and paper. These conventional methods are time-consuming, prone to errors, and hard to manage remotely.
+<and>history,of,stockims/how,start,stockims/origin,of,stockims/when,stockims,start=:= 
+    Upon the completion of the "GenGrade: Student Grades Management System" project, the developer wished to diversify their portfolio further by working on a new project. This resulted in the development of StockIMS, a stock inventory management system. In contrast to GenGrade, the development of StockIMS went relatively quickly, as parts of the core logic were also employed, and thus code could be reused and the interface modeled similarly. The development started officially on April 5, 2025.
+<and>features,of,stockims/what,can,stockims,do/stockims,functions/benefits,of,stockims=:= 
+    StockIMS features includes:
+    <ul>
+        <li>Managing stock quantities — including increasing, decreasing, resetting, and removing items.</li>
+        <li>Displaying items that are low in stock to help prevent shortages.</li>
+        <li>Recording a history of transactions for better tracking and accountability.</li>
+        <li>Exporting recorded transaction history into .csv file format.</li>
+    </ul>
+<and>why,choose,stockims/should,use,stockims=:=
+    That's an interesting question, StockIMS provide a flexible approach in managing business stock inventory unlike other systems that requires a specialized device, StockIMS can run on basic devices like regular phones and is mobile responsive.
+<and>how,to,use/tutorial=:=
+    You can check out the tutorial to learn how to use StockIMS effectively by clicking the tutorial on the side bar or by typing "Go To Tutorial".
+<and>what,integrated,bot=:=
+    KV Bot and me (Integrated KV Bot) are different. We both used the same way parsing data, but we differ in the dictionary we load. I am like a special agent based from the original KV Bot, which has it's own website, while I am just an integration to to websites.
+
+
+<and>
+TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>what,you/who,you/what|define,your,name=:=
+    I am integrated KV Bot, a chatbot ready to assist you anything about StockIMS.<or>
+    I am integrated KV Bot, a chatbot wiling to help you if you need anything about StockIMS<or>
+    My name's integrated KV Bot, I am a chatbot ready to help you about StockIMS
+<and>change|new,pass=:=
+	To change or create a new password, kindly go to account, and enter your old password, then your new password and confirm your new password. 
+		Password must contain at least:
+		<ul>
+			<li>One Uppercase Letter</li>
+			<li>One Lowercase Letter</li>
+			<li>Number</li>
+			<li>Special Character</li>
+		</ul>
+		For the purpose of security reason.
+<and>purpose,tutorial/tutorial,purpose=:=
+	The purpose of the tutorial is to instruct users on how to properly use StockIMS.
+<and>delete,account=:=
+	To delete your account, go to account, click delete account. Enter your password, then click permanently delete account. <br/><br/> ⚠️WARNING: This action deletes all your data in this website and cannot be reversed.
+<and>change|edit,name|mail|birthday|birthdate=:=
+	Unfortunately, in the account section, your name, birthday, and email cannot be changed, as they are captured in our database exactly as you entered them during registration. Changing this information may raise privacy concerns or lead to fraudulent activities.
+<and>it,related=:=
+    Yes of course, if it is related but I am still unable to answer, I will let my developer know.
+
+<and>
+ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>define/elaborate/explain/can you/please=:=
+    Sorry but I am unable to do that.<or>
+    I cannot do that.<or>
+    I am unable to do that.
+<and>thank,s|you=:=
+    Welcome, glad I could help.<or>
+    Anytime, glad I could be of your help.<or>
+    Appreciated, just ask me if you still need anything about StockIMS.
+<and>okay/fine=:=
+    Right then, let me know if you still need anything.<or>
+    Alright, just tell me if you need something.<or>
+    Fine then, just ask me something if you need anything.
+<and>wow/great/impressive/amazing=:=
+    Great then, I'm glad I can impress you.<or>
+    Glad I can impress you.<or>
+    Thank you for you compliment.<or>
+    Thanks, glad that I can impress you.
+
+
+<and>
+LEAST_PRIORITY_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>what /why /where /who /when /how /was the/were you/are you=:=
+    I don't answer that specific question.<or>
+    I cannot answer that.<or>
+    I am unable to answer that question.
+
+<and>sfn/sfv/lsx/sfa/afas/asd/fsa/sad/gsf/bxc/sfs/sfbx/fbd/epl/gfg/zxz/xcx/cvc/vbv/bbn/mmn/qwq/rtt/ytr/zsd/dsz/szd/dhj/klg/yrt/tgg/xlc/xmp/zxc/xcv/cvb/vbn/bnm/sdf/dfg/fgh/ghj/hjk/jkl/qwr/wrt/rtp/pyt/ytr/trw/rwq=:=
+    It appears that you are typping random letters, I don't know what you are saying.<or>
+    It seems that you are typing jumbled letters, I am unable to understand you.<or>
+    That's gibberish, I cannot understand you.
