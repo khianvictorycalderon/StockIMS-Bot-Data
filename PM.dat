@@ -16,11 +16,15 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     Sorry really can't understand that.
 <and>really|just,cant,understand^why|really=:=
     Sorry I don't respond to that.
-
+<and>i,unable|cant|cannot^why,not=:=
+    I don't know, no more info about that.<or>
+    I just cant...<or>
+    Sorry no more info about that.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
-
+<and>how,to|do|you,add,new,item|stock|product=:=
+    To add new item, go to operation, enter a custom ID, then enter the product name (NOTE: You cannot rename the item once added to the inventory), then enter price per each (not as pack), and lastly, enter the low stock threshold value, items below this value are considered low stock and will be displayed in the inventory section.
 
 <and>
 FOUR_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -28,9 +32,21 @@ FOUR_WORDS_!@$@@!#=:=This is an empty Data--------------------------------------
     Yes, our conversation is being recorded in the database to improve my response over time.<or>
     Yes, it is stated in our privacy policy, this is done to improve my response to you.<or>
     Yes, as stated in our sites's privacy policy, this is for me to respond better the next time you ask me something.
+<and>how,to|do|you,increase|add|more,stock|item|product=:=
+    To increase stock, go to operation, enter item name, then enter quantity (how many items to increase), then click "Increase Stock".
+<and>how,to|do|you,decrease|subtract|less,stock|item|product=:=
+    To decrease stock, go to operation, enter item name, then enter quantity (how many items to decrease), then click "Decrease Stock".
+<and>how,to|do|you,reset,stock|item|product=:=
+    To reset stock, go to operation, enter item name, then click "Reset Stock".
+<and>how,to|do|you,remove,stock|item|product=:=
+    To remove stock, go to operation, enter item name, then click "Remove Stock".
 
 <and>
 THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>how,are,you/how,you,doin=:=
+    As an chatbot, I don't have a physical state in which like human is expecting to answer me fine.<or>
+    It is equivalent of saying that I am fine, but I do not possess the state of being emotional.<or>
+    I am incapable of answering that question, I may say that I am similar to what human defined as "Fine".
 <and>how,old,you/what,your,age=:=
     Me as integrated KV Bot was born the same date as StockIMS was published, April 10, 2025.<or>
     As integrated KV Bot, I was born as the same date when StockIMS was published, April 10, 2025.<or>
@@ -58,7 +74,7 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
     StockIMS was made to give small business owners an easy, affordable, and mobile solution for their inventory management. Most small businesses have difficulty keeping up with inventory levels, particularly when using outdated methods such as spreadsheets or pen and paper. These conventional methods are time-consuming, prone to errors, and hard to manage remotely.
 <and>history,of,stockims/how,start,stockims/origin,of,stockims/when,stockims,start=:= 
     Upon the completion of the "GenGrade: Student Grades Management System" project, the developer wished to diversify their portfolio further by working on a new project. This resulted in the development of StockIMS, a stock inventory management system. In contrast to GenGrade, the development of StockIMS went relatively quickly, as parts of the core logic were also employed, and thus code could be reused and the interface modeled similarly. The development started officially on April 5, 2025.
-<and>features,of,stockims/what,can,stockims,do/stockims,functions/benefits,of,stockims=:= 
+<and>features,of,stockims/what,can,stockims,do/stockims,functions/what,stockims,feature/benefits,of,stockims=:= 
     StockIMS features includes:
     <ul>
         <li>Managing stock quantities — including increasing, decreasing, resetting, and removing items.</li>
@@ -66,13 +82,20 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
         <li>Recording a history of transactions for better tracking and accountability.</li>
         <li>Exporting recorded transaction history into .csv file format.</li>
     </ul>
+    All of these are my summarized features.
 <and>why,choose,stockims/should,use,stockims=:=
     That's an interesting question, StockIMS provide a flexible approach in managing business stock inventory unlike other systems that requires a specialized device, StockIMS can run on basic devices like regular phones and is mobile responsive.
 <and>how,to,use/tutorial=:=
     You can check out the tutorial to learn how to use StockIMS effectively by clicking the tutorial on the side bar or by typing "Go To Tutorial".
 <and>what,integrated,bot=:=
     KV Bot and me (Integrated KV Bot) are different. We both used the same way parsing data, but we differ in the dictionary we load. I am like a special agent based from the original KV Bot, which has it's own website, while I am just an integration to to websites.
-
+<and>why,complicated|hard,use=:=
+    Apologies if StockIMS was hard to use, you may suggest to my developer for changes.<or>
+    My bad if StockIMS was hard to use, you may suggest to my developer for changes.<or>
+    Sorry for the inconvenience, you may suggest to my developer for changes.
+<and>why,you,integrated|embed=:=
+    I was integrated to this website for information to be more accessible to users.<or>
+    I was embedded to StockIMS so that information can easily be access via chatbot.
 
 <and>
 TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -98,6 +121,10 @@ TWO_WORDS_!@$@@!#=:=This is an empty Data---------------------------------------
 	Unfortunately, in the account section, your name, birthday, and email cannot be changed, as they are captured in our database exactly as you entered them during registration. Changing this information may raise privacy concerns or lead to fraudulent activities.
 <and>it,related=:=
     Yes of course, if it is related but I am still unable to answer, I will let my developer know.
+<and>who,benefit|beneficiar/stockims,for/for,stockims/who,for=:=
+    Well that's a good question, the main beneficiary of StockIMS are the business owners, small to medium sized.<or>
+    StockIMS was primarily designed to be used by small to medium business owners, specifically store owners.<or>
+    This website was designed to be used as inventory management for busoness owners, specifically store owners.
 
 <and>
 ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
